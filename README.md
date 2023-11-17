@@ -1,0 +1,1 @@
+This project is to extract the top 1000 movies from IMDB.
